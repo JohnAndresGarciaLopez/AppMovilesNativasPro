@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_shopping_cart.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_card_product.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_card_product.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_location.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_location.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_purchase_compleate.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_purchase_compleate.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_shopping_cart.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_check_circle_24.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_delete.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_delete.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_bg_round.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/bg_round.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_card_view_shopping_cart.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/card_view_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_payment_24.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_payment_24.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_markunread_mailbox_24.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_markunread_mailbox_24.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_confirm_user_info.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_confirm_user_info.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_person.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_person.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_login.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_registrar.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_registrar.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/drawable_baseline_my_location.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/drawable/baseline_my_location.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-merged_res-41:/layout_activity_product_list.xml.flat",
+        "source": "com.example.tiendavirtualandroid.app-main-43:/layout/activity_product_list.xml"
+    }
+]
